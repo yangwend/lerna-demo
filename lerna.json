@@ -11,9 +11,6 @@
         "*.md"
       ],
       "message": "chore(release): publish"
-    },
-    "bootstrap": {
-      "ignore": "component-*"
     }
   },
   "version": "0.0.0"
